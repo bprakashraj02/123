@@ -28,6 +28,7 @@ ClusterName: [aks-dev-cluster](https://portal.azure.com/#@pgone.onmicrosoft.com/
 
 ### Development VM
 
+
 To access the cluster a virtual machine is being used where all the dependencies for kubernetes have been installed like ```kubectl``` ans so on. This VM will be used for other development activities.
 
 [azl-dev-vm](https://portal.azure.com/#@pgone.onmicrosoft.com/resource/subscriptions/ed6d71e6-0262-49ad-b8ff-074000058889/resourceGroups/AZ-RG-TerraformModules-Dev-02/providers/Microsoft.Compute/virtualMachines/azl-dev-vm/overview)
