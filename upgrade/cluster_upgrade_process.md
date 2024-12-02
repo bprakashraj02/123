@@ -1,5 +1,6 @@
 ## AKS Cluster Upgrade Process Flow
 
+
 This document will cover the upgrade process flow of a Kubernetes Cluster. This document will also talk about the scenarios, strategies like when and how the upgrade will happen and the buisness approvals for approving the cluster upgrade.
 
 * [AKS Environment](https://github.com/procter-gamble/k8sCICD/blob/feat_node_pool_desc/cluster_upgrade_process.md#aks-environment)
